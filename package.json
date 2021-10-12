@@ -1,0 +1,13 @@
+{
+  "name": "terminallinkprovider-bug",
+  "version": "1.0.0",
+  "description": "A sample project to demonstrate and issue with VS Code, TerminalLinkProviders, and tasks reusing terminals",
+  "main": "index.js",
+  "author": "Ewan Harris",
+  "license": "MIT",
+  "private": true,
+  "activationEvents": [ "*" ],
+  "engines": {
+    "vscode": "^1.60.0"
+  }
+}
